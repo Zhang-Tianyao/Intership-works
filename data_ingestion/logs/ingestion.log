@@ -1,0 +1,7 @@
+2026-04-15 06:14:12 - INFO - Pipeline start.
+2026-04-15 06:14:12 - INFO - Crawler finished.
+2026-04-15 06:14:12 - INFO - Got 1 posts and 1 comments.
+2026-04-15 06:14:12 - INFO - === ETL START ===
+2026-04-15 06:14:12 - INFO - ETL finished writing to DB.
+2026-04-15 06:14:12 - INFO - === ETL END ===
+2026-04-15 06:14:12 - INFO - Pipeline done.
