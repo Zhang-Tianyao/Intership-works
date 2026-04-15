@@ -99,3 +99,10 @@
 2026-04-15 10:20:31 - INFO - ETL finished writing to DB.
 2026-04-15 10:20:31 - INFO - === ETL END ===
 2026-04-15 10:20:31 - INFO - Pipeline done.
+2026-04-15 11:22:48 - INFO - Pipeline start.
+2026-04-15 11:31:25 - INFO - Crawler finished.
+2026-04-15 11:31:25 - INFO - Got 75 posts and 1107 comments.
+2026-04-15 11:31:25 - INFO - === ETL START ===
+2026-04-15 11:31:25 - INFO - ETL finished writing to DB.
+2026-04-15 11:31:25 - INFO - === ETL END ===
+2026-04-15 11:31:25 - INFO - Pipeline done.
