@@ -60,3 +60,19 @@ def load_to_db(posts, comments):
 
     logger.info("ETL finished writing to DB.")
     logger.info("=== ETL END ===")
+
+def get_existing_post_ids():
+    conn = sqlite3.connect("db/reddit.db")
+    cur = conn.cursor()
+    cur.execute("SELECT id FROM posts")
+    rows = cur.fetchall()
+    conn.close()
+    return set(r[0] for r in rows)
+
+def get_existing_comment_ids():
+    conn = sqlite3.connect("db/reddit.db")
+    cur = conn.cursor()
+    cur.execute("SELECT id FROM comments")
+    rows = cur.fetchall()
+    conn.close()
+    return set(r[0] for r in rows)

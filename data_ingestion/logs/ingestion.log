@@ -5,3 +5,97 @@
 2026-04-15 06:14:12 - INFO - ETL finished writing to DB.
 2026-04-15 06:14:12 - INFO - === ETL END ===
 2026-04-15 06:14:12 - INFO - Pipeline done.
+2026-04-15 06:31:28 - INFO - Pipeline start.
+2026-04-15 06:31:28 - INFO - Crawler finished.
+2026-04-15 06:31:28 - INFO - Got 1 posts and 1 comments.
+2026-04-15 06:31:28 - INFO - === ETL START ===
+2026-04-15 06:31:28 - INFO - ETL finished writing to DB.
+2026-04-15 06:31:28 - INFO - === ETL END ===
+2026-04-15 06:31:28 - INFO - Pipeline done.
+2026-04-15 06:47:22 - INFO - Pipeline start.
+2026-04-15 06:47:24 - INFO - Crawler finished.
+2026-04-15 06:47:24 - INFO - Got 25 posts and 0 comments.
+2026-04-15 06:47:24 - INFO - === ETL START ===
+2026-04-15 06:47:24 - INFO - ETL finished writing to DB.
+2026-04-15 06:47:24 - INFO - === ETL END ===
+2026-04-15 06:47:24 - INFO - Pipeline done.
+2026-04-15 06:57:47 - INFO - Pipeline start.
+2026-04-15 06:57:50 - INFO - Crawler finished.
+2026-04-15 06:57:50 - INFO - Got 25 posts and 0 comments.
+2026-04-15 06:57:50 - INFO - === ETL START ===
+2026-04-15 06:57:50 - INFO - ETL finished writing to DB.
+2026-04-15 06:57:50 - INFO - === ETL END ===
+2026-04-15 06:57:50 - INFO - Pipeline done.
+2026-04-15 07:01:27 - INFO - Pipeline start.
+2026-04-15 07:02:19 - INFO - Crawler finished.
+2026-04-15 07:02:19 - INFO - Got 25 posts and 0 comments.
+2026-04-15 07:02:19 - INFO - === ETL START ===
+2026-04-15 07:02:19 - INFO - ETL finished writing to DB.
+2026-04-15 07:02:19 - INFO - === ETL END ===
+2026-04-15 07:02:19 - INFO - Pipeline done.
+2026-04-15 07:04:35 - INFO - Pipeline start.
+2026-04-15 07:05:39 - INFO - Crawler finished.
+2026-04-15 07:05:39 - INFO - Got 25 posts and 2417 comments.
+2026-04-15 07:05:39 - INFO - === ETL START ===
+2026-04-15 07:05:39 - INFO - ETL finished writing to DB.
+2026-04-15 07:05:39 - INFO - === ETL END ===
+2026-04-15 07:05:39 - INFO - Pipeline done.
+2026-04-15 07:07:10 - INFO - Pipeline start.
+2026-04-15 07:16:47 - INFO - Pipeline start.
+2026-04-15 07:16:54 - INFO - Crawler finished.
+2026-04-15 07:16:54 - INFO - Got 75 posts and 0 comments.
+2026-04-15 07:16:54 - INFO - === ETL START ===
+2026-04-15 07:16:54 - INFO - ETL finished writing to DB.
+2026-04-15 07:16:54 - INFO - === ETL END ===
+2026-04-15 07:16:54 - INFO - Pipeline done.
+2026-04-15 07:17:09 - INFO - Pipeline start.
+2026-04-15 07:24:11 - INFO - Crawler finished.
+2026-04-15 07:24:11 - INFO - Got 75 posts and 4347 comments.
+2026-04-15 07:24:11 - INFO - === ETL START ===
+2026-04-15 07:24:11 - INFO - ETL finished writing to DB.
+2026-04-15 07:24:11 - INFO - === ETL END ===
+2026-04-15 07:24:11 - INFO - Pipeline done.
+2026-04-15 09:19:52 - INFO - Pipeline start.
+2026-04-15 09:21:13 - INFO - Pipeline start.
+2026-04-15 09:22:10 - INFO - Crawler finished.
+2026-04-15 09:22:10 - INFO - Got 75 posts and 0 comments.
+2026-04-15 09:22:10 - INFO - === ETL START ===
+2026-04-15 09:22:10 - INFO - ETL finished writing to DB.
+2026-04-15 09:22:10 - INFO - === ETL END ===
+2026-04-15 09:22:10 - INFO - Pipeline done.
+2026-04-15 09:55:43 - INFO - Pipeline start.
+2026-04-15 09:55:55 - INFO - Crawler finished.
+2026-04-15 09:55:55 - INFO - Got 75 posts and 0 comments.
+2026-04-15 09:55:55 - INFO - === ETL START ===
+2026-04-15 09:55:55 - INFO - ETL finished writing to DB.
+2026-04-15 09:55:55 - INFO - === ETL END ===
+2026-04-15 09:55:55 - INFO - Pipeline done.
+2026-04-15 10:02:38 - INFO - Pipeline start.
+2026-04-15 10:02:49 - INFO - Crawler finished.
+2026-04-15 10:02:49 - INFO - Got 75 posts and 0 comments.
+2026-04-15 10:02:49 - INFO - === ETL START ===
+2026-04-15 10:02:49 - INFO - ETL finished writing to DB.
+2026-04-15 10:02:49 - INFO - === ETL END ===
+2026-04-15 10:02:49 - INFO - Pipeline done.
+2026-04-15 10:03:40 - INFO - Pipeline start.
+2026-04-15 10:03:51 - INFO - Crawler finished.
+2026-04-15 10:03:51 - INFO - Got 75 posts and 0 comments.
+2026-04-15 10:03:51 - INFO - === ETL START ===
+2026-04-15 10:03:51 - INFO - ETL finished writing to DB.
+2026-04-15 10:03:51 - INFO - === ETL END ===
+2026-04-15 10:03:51 - INFO - Pipeline done.
+2026-04-15 10:07:10 - INFO - Pipeline start.
+2026-04-15 10:07:25 - INFO - Crawler finished.
+2026-04-15 10:07:25 - INFO - Got 75 posts and 0 comments.
+2026-04-15 10:07:25 - INFO - === ETL START ===
+2026-04-15 10:07:25 - INFO - ETL finished writing to DB.
+2026-04-15 10:07:25 - INFO - === ETL END ===
+2026-04-15 10:07:25 - INFO - Pipeline done.
+2026-04-15 10:10:19 - INFO - Pipeline start.
+2026-04-15 10:11:57 - INFO - Pipeline start.
+2026-04-15 10:20:31 - INFO - Crawler finished.
+2026-04-15 10:20:31 - INFO - Got 75 posts and 1104 comments.
+2026-04-15 10:20:31 - INFO - === ETL START ===
+2026-04-15 10:20:31 - INFO - ETL finished writing to DB.
+2026-04-15 10:20:31 - INFO - === ETL END ===
+2026-04-15 10:20:31 - INFO - Pipeline done.

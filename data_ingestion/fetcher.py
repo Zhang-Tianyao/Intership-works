@@ -1,19 +1,29 @@
 import random
 import time
 import requests
+from config import load_config
 
-HEADERS = {
-    "User-Agent": random.choice([
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
-        "Mozilla/5.0 (X11; Linux x86_64)"
-    ])
-}
+config = load_config()
+UA_LIST = config["user_agents"]
 
-def fetch_url(url, min_delay=1.0, max_delay=2.5):
+session = requests.Session()
+
+def fetch_url(url, min_delay=None, max_delay=None):
+    if min_delay is None:
+        min_delay = config["crawler"]["fetch_delay_min"]
+    if max_delay is None:
+        max_delay = config["crawler"]["fetch_delay_max"]
+
     time.sleep(random.uniform(min_delay, max_delay))
 
-    resp = requests.get(url, headers=HEADERS, timeout=10)
-    resp.raise_for_status()
+    headers = {"User-Agent": random.choice(UA_LIST)}
 
+    resp = session.get(url, headers=headers, timeout=10)
+
+    if resp.status_code == 429:
+        print("Hit rate limit, sleeping 10 seconds...")
+        time.sleep(10)
+        return fetch_url(url, min_delay, max_delay)
+
+    resp.raise_for_status()
     return resp.text
